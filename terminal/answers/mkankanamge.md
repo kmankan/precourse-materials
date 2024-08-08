@@ -2,7 +2,7 @@
 
 ## QUESTIONS
 
-- What are the top 20 commands for mac Command Line Interface (CLI)?
+### What are the top 20 commands for mac Command Line Interface (CLI)?
 
 cd : change directory
 
@@ -62,18 +62,18 @@ echo : print a text value or variable to the terminal. can also print the output
 
 
 
-- What is a terminal? A CLI? Why are they synonymous?
+### What is a terminal? A CLI? Why are they synonymous?
 
 A terminal is a program for providing the GUI for text-based interactions with the OS. CLI is a type of interface where users interact with a program or OS by typing commands as text (software implementation vs. style of interaction)
 
-- What is the difference between bash and zsh?
+### What is the difference between bash and zsh?
 
 Bash (born again shell) was the shell used on Linux and macOS prior to Catalina. Zsh (Z Shell) was developed as an extended version of Bash with improvements. Become the default shell on macOS after Catalina. Some of its preferred new features include enhanced auto-complete and customization.
 A shell is a command-line interpreter that provides a UI for interacting with the OS.
 Through the terminal we interact with the shell (e.g. Zsh) 
 
 
-- What is the difference between Terminal, Console, Shell, and Command Line?
+### What is the difference between Terminal, Console, Shell, and Command Line?
 
 terminal: a program for providing text-based interaction with the OS.
 
